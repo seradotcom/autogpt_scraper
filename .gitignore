@@ -1,0 +1,22 @@
+# Ignorar el directorio .venv
+.venv/
+
+# Ignorar archivos de prueba
+*.test.py
+test.py
+app.py
+document_processor.py
+test_*
+imagenes_prueba
+__pycache__
+ai_data.json
+leer.py
+write.py
+.env
+scraper2.py
+urls.json
+key.json
+db_connection.py
+
+# Ignorar la carpeta de logos
+ai_imgs/
